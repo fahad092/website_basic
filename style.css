@@ -1,0 +1,43 @@
+
+/*login style*/
+  *
+{
+	margin:0px;
+	padding:0px;
+}
+ #id {
+  margin-left: 66px;
+}
+#pass {
+  margin-left:10px;
+}
+#user{
+	margin-left:6px;
+}
+ #frm {
+    /*background: none repeat scroll 0 0;*/
+	background-color:#31353D;
+    border:2px none gray;
+    border-radius:10px;
+    color: white;
+    font-size: 20px;
+    margin:90px auto;
+    padding:15px;
+    width:45%;
+	height:150px;
+}
+
+ #btn
+ {
+	 color:#fff;
+	 background:#337ab7;
+	 padding:5px;
+	 margin-right:69%; 
+ }
+ #title
+ {
+	 margin-left:130px;
+	margin-top:10px;
+	color:0057C8;
+ }
+ 

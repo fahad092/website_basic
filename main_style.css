@@ -1,0 +1,212 @@
+*
+{
+	margin:0px;
+	padding:0px;
+}
+#clear
+{
+   clear:both;	
+}
+.container
+{
+	width:100%;
+}
+.container1
+{
+	margin-top:15px;
+	font-family:arial;
+	font-weight:bold;
+	color:grey;
+	border:2px solid grey;
+	width:270px;
+	padding:10px;
+	text-align:center;
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+	border-radius:5px;
+	display:inline-block;
+	text-decoration:none;
+	
+	
+	
+}
+
+.wrapper
+{
+	width:1000px;
+	margin:auto;
+	
+	
+}
+.dark
+{
+	background-color:#31353d;
+	color:white;
+}
+.light
+{
+	background-color:#e9edf2;
+	height:140px;
+}
+.light1
+{
+	background-color:#e9edf2;
+	height:205px;
+}
+#top_left
+{
+	display:inline-block;
+	
+}
+#top_left a
+{
+	color:white;
+}
+#top_right
+{
+	float:right; 
+}
+#top_right a
+{
+	color:white;
+}
+#top_div
+{
+	height:40px;
+	line-height:40px;
+	
+}
+#logo_left
+{
+	display:inline-block;
+	margin-top:5px;
+}
+#logo_right
+{
+	float:right;
+	
+}
+#network img
+{
+	margin-top:10px;
+	border:2px solid #e9edf2;
+	
+}
+#textboxstyle
+{
+	height:30px;
+     border-radius:8px;	
+	 width:200px;
+}
+#searchstyle
+{
+	height:30px;
+	background-color:green;
+	color:white;
+	border-radius:8px;
+	width:70px;
+	border:1px solid #8292FF;		
+}
+ul
+{
+	display:inline-block;
+}
+ul li
+{
+	
+	width:175px;
+	display:inline-block;
+	height:35px;
+	line-height:35px;
+	text-align:center;
+	 
+}
+ul li a
+{
+	color:white;
+	text-decoration:none;
+	display:block;	
+}
+ul li a:hover
+{
+	background-color:red;
+	
+}
+#slider_image img
+{
+
+    width:900px;
+	height:300px;
+	border:1px solid grey;
+	padding:10px;
+	background-color:#eee;
+	box-shadow:5px 5px 10px grey;
+	margin-top:7px;	
+}
+h2
+{
+	text-align:center;	
+}
+#aboutcompany_image
+{
+	
+	width:130px;
+	margin:auto;
+	margin-top:20px;
+	cursor:pointer;
+	
+}
+#aboutcompany
+{
+    margin-top:3px;
+    text-align:justify;
+	width:320px;
+	margin:5px;
+	display:inline-block;
+	box-shadow:2px 2px 2px grey;
+	
+}
+#aboutme
+{
+	margin-top:20px;
+	text-align:justify;
+	padding:10px;
+	
+}
+
+	
+#aboutme img
+{
+	
+	padding:5px;
+	margin:5px;
+	border-radius:8px;
+	
+}
+
+#space
+{
+	
+	background-color:white;
+	height:250px;
+	margin-top:50px;
+	margin:auto;
+	padding:175px;
+	
+}
+#email
+{
+	height:25px;
+	width:250px;
+}
+#postcomment
+{
+	height:35px;
+	background-color:0057C8;
+	box-shadow:2px 2px 2px 2px #48A4DF;
+	color:white;
+}
+#moreinfo
+{
+	margin-top:7px;
+}

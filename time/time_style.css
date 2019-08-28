@@ -1,0 +1,18 @@
+.container
+{
+	margin-top:20px;
+	font-family:arial;
+	font-weight:bold;
+	color:grey;
+	border:2px solid grey;
+	width:270px;
+	padding:10px;
+	text-align:center;
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+	border-radius:10px;
+	display:inline-block;
+	text-decoration:none;
+	
+	
+}
